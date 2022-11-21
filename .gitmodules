@@ -1,0 +1,9 @@
+[submodule "ocr"]
+	path = ocr
+	url = https://github.com/iqbal-haz/ocr-service.git
+[submodule "zsc"]
+	path = zsc
+	url = https://github.com/iqbal-haz/zsc_api.git
+[submodule "asr"]
+	path = asr
+	url = https://github.com/iqbal-haz/asr-service.git
